@@ -11,4 +11,4 @@ Se utilizaron dos modelos en esta investigación debido a su naturaleza y los re
 - Coeficiente de Información de Fisher
 - Análisis de Fluctuación sin Tendencia
 
-En el Jupyter Notebook adjunto en esta carpeta se puede encontrar un detalle paso a paso para replicar el experimento. Se recomienda correrlo sobre la plataforma Google Colab en línea para tener un entorno más controlado.
+En el Jupyter Notebook adjunto en esta carpeta se puede encontrar un detalle paso a paso para replicar el experimento. Se recomienda correrlo sobre la plataforma Google Colab en línea para tener un entorno más controlado. Las datos a utilizar se encuentran en la carpeta llamada "Datos"
